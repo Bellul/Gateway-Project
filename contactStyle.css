@@ -1,0 +1,20 @@
+
+/* Contact */
+
+  .contact-title{
+    font-size: 30px;
+  }
+  
+  .subtitle{
+    font-size: 20px;
+  }
+  
+  .contactBox{
+    margin-left: 5rem;
+    height: 500px;
+    width: 40%;
+    border-style: outset;
+    box-shadow: 10px 10px;
+    border-width: 5px;
+    background-color: white;
+  }
